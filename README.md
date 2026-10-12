@@ -17,3 +17,8 @@ Oyunu hızlıca bitirmek için;
 7. ␣ `Boşluk` (Yatağı incele ve anahtarı al)
 8. ⬅️ `Sol Ok` (Kapıya dön)
 9. ␣ `Boşluk` (Kapıyı aç ve kaç!)
+
+## İlham Kaynağı
+Bu oyunun atmosferi, hikayesi ve bulmaca mekanikleri, aşağıdaki "İnfaz Memuru" adlı şiirden ve dijital çizimden ilham alınarak tasarlanmıştır:
+_Resimde tkinter ile çizilmiş resimlerin en başta nasıl görünmesinin amaçlandığını görebilirsiniz_ 
+![İnfaz Memuru Şiiri ve Çizimi](infaz_memuru.png)
